@@ -1,2 +1,2 @@
 # Homework
-## The file for the home wor is `llm_homework.ipynb`
+## The file for the homework is `llm_homework.ipynb`
